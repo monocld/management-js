@@ -1,4 +1,4 @@
-![MonoCloud Logo](https://raw.githubusercontent.com/monocloud/monocloud-management-dotnet/refs/heads/main/MonoCloud.png)
+![MonoCloud Logo](https://raw.githubusercontent.com/monocloud/management-js/refs/heads/main/MonoCloud.png)
 
 ## Introduction
 
